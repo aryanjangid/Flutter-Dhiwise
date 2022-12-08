@@ -1,0 +1,1 @@
+class Gridshape1ItemModel { }

@@ -1,0 +1,1 @@
+class ListshapeOne2ItemModel { }

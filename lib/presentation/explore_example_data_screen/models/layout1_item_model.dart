@@ -1,0 +1,1 @@
+class Layout1ItemModel { }
